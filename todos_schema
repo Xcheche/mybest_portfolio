@@ -1,0 +1,13 @@
+REeview model 
+client name,photo,location,message  = Wired to projects Foreign Key or Many to many field with upvote anddown vote for
+
+
+Project model
+Project name,project descrip,preview_image,readmore/detail
+
+
+custom user model
+
+Security For reviewers
+
+
